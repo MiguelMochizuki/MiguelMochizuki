@@ -92,9 +92,9 @@ Interested in **research-driven** and **applied ML** environments that value rig
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/AMiguelMochizukiDev?label=Followers&style=flat&color=3BAFDA" />
+  <img src="https://img.shields.io/github/followers/MiguelMochizukiDev?label=Followers&style=flat&color=3BAFDA" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/MiguelMochizukiDevlabel=Stars&style=flat&color=3BAFDA" />
+  <img src="https://img.shields.io/github/stars/MiguelMochizukiDev?label=Stars&style=flat&color=3BAFDA" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=MiguelMochizukiDev&color=3BAFDA" />
 </div>
