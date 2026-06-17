@@ -1,8 +1,8 @@
-<h1 align="center">Miguel Mochizuki Silva</h1>
+# <h1 align="center">Miguel Mochizuki Silva</h1>
 
 <p align="center">
   <sup>
-    Machine Learning Engineer · Computer Vision · Systems Programming · Applied AI
+    Machine Learning Engineer · Computer Vision · Healthcare AI · Production ML
   </sup>
 </p>
 
@@ -10,11 +10,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-mochizuki-36622a346)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelMochizukiDev)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelmochizukisilva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/miguel-mochizuki-36622a346)
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MiguelMochizukiDev)
+ 
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:miguelmochizukisilva@gmail.com)
 
 </div>
 
@@ -22,85 +22,186 @@
 
 ---
 
-### 🧭 About
+## About
 
-Computer Science undergraduate at **UFPB**, focused on building **robust and scalable machine learning systems**.
+Computer Science undergraduate at **UFPB** and Machine Learning Engineer working on **Computer Vision**, **Healthcare AI**, and **Agentic RAG systems**.
 
-My work sits at the intersection of:
-- **Machine Learning**
-- **Computer Vision**
-- **Systems Engineering**
+My focus is building end-to-end machine learning systems that move beyond experimentation and deliver reliable performance in real-world environments.
 
-I’m particularly interested in transforming ML models into **reliable, production-ready tools**, especially in **high-stakes environments** like healthcare.
+Current interests include:
 
-> I care less about training models — and more about making them *work in the real world*.
+* Computer Vision and Object Tracking
+* Healthcare AI
+* Multimodal Systems
+* Agentic AI and RAG
+* MLOps and Production ML
+* High-Performance Computing with C++
 
-<br />
-
----
-
-### ⚙️ What I Work On
-
-- End-to-end ML pipelines (data → model → deployment)
-- Multimodal systems (vision + language)
-- Tracking and temporal modeling (Kalman Filters, HMMs)
-- Synthetic data generation and validation strategies
-- Retrieval-Augmented Generation (RAG) systems
-- Performance-aware implementations (C++ / Python)
+> From research prototypes to production-grade AI systems.
 
 <br />
 
 ---
 
-### 💼 Experience
+## Highlights
 
-🔬 **AI Engineer / Researcher — ARIA (UFPB)** *(2025–Present)*  
-- Developed ML pipelines for **clinical decision support systems**  
-- Designed **LLM-based diagnostic architectures (agentic pipelines + RAG)**  
-- Worked on **synthetic data generation** for robust model training  
-- Built **computer vision systems** for surgical environments  
-
-🤖 **Machine Learning Engineer — Tail (UFPB)** *(2025–Present)*  
-- Developed detection and tracking systems for sports analytics  
-- Contributed to collaborative ML engineering workflows  
-
-📐 **Researcher — Mathematics (PIBIC / CNPq)** *(2022–2023)*  
-- Worked on PDEs and geometric analysis  
-- Awarded Young Researcher distinction  
+* Developed surgical sponge tracking pipelines achieving **92% tracking accuracy**
+* Built agentic RAG systems for breast cancer diagnosis reaching **85% diagnostic accuracy**
+* Generated **10,000+ synthetic clinical samples** for healthcare AI research
+* Improved computer vision classification performance by **60% over baseline approaches**
+* Presented AI research results to medical professionals and technical stakeholders
+* Contributed to research and engineering projects spanning healthcare, sports analytics, and machine learning infrastructure
 
 <br />
 
 ---
 
-### 🧠 Selected Projects
+## What I Work On
 
-**NN in C++**  
-→ Minimal deep learning framework from scratch  
-→ Forward/backward propagation, gradient descent, core layers  
-
-**FER-2013 Emotion Recognition**  
-→ Deep learning model for facial expression classification  
-
-**RISC-V Student Pack**  
-→ Educational toolkit for low-level programming  
-
-<br />
-
----
-
-### 🛠 Tech Stack
-
-- **Languages:** Python, C/C++, SQL  
-- **ML:** PyTorch, scikit-learn  
-- **Data:** pandas  
-- **Systems:** Linux, Docker  
-- **Tools:** Git  
+* Computer Vision (Detection, Tracking, Classification)
+* Agentic AI Systems
+* Retrieval-Augmented Generation (RAG)
+* Synthetic Data Generation
+* Time Series and Sequential Modeling
+* Deep Learning with PyTorch
+* FastAPI-based ML Services
+* MLOps and Dockerized Deployments
+* Performance-Oriented C++ Development
 
 <br />
 
 ---
 
-### 📊 GitHub
+## Experience
+
+### AI Applications Lab (ARIA) — UFPB
+
+**AI Engineer & Research Intern** | 2025–Present
+
+Working on healthcare AI and computer vision systems in collaboration with academic and industry partners.
+
+**Projects include:**
+
+* Surgical sponge tracking using ByteTrack and Hidden Markov Models
+* Agentic RAG systems for breast cancer diagnosis
+* Synthetic data generation pipelines for medical AI
+* End-to-end machine learning infrastructure for research-to-production workflows
+
+---
+
+### Technology and AI League (Tail) — UFPB
+
+**Machine Learning Engineer** | 2025–Present
+
+Developing applied machine learning solutions for real-world analytics and decision support.
+
+**Projects include:**
+
+* Real-time sports analytics systems
+* CLIP fine-tuning for jersey color classification
+* Audio similarity systems using Siamese Neural Networks
+* Model evaluation, monitoring, and performance analysis
+
+---
+
+### Mathematics Research Program (PIBIC/CNPq)
+
+**Researcher** | 2022–2023
+
+* Research in Partial Differential Equations and Geometric Analysis
+* Awarded Young Researcher distinction at UFPB research symposium
+
+<br />
+
+---
+
+## Selected Projects
+
+### NN in C++
+
+Minimal neural network framework built entirely from scratch.
+
+* Backpropagation
+* Stochastic Gradient Descent
+* Matrix Operations
+* Multiple Activation Functions
+* XOR Learning Demonstration
+
+---
+
+### Breast Cancer Diagnostic RAG
+
+Agentic retrieval-augmented system for clinical decision support.
+
+* FAISS Vector Database
+* LLM-based Reasoning
+* Diagnostic Workflow Design
+* Synthetic Medical Data Generation
+
+---
+
+### Surgical Sponge Tracking
+
+Computer vision pipeline for surgical environments.
+
+* Object Detection
+* Multi-Object Tracking
+* ByteTrack
+* Hidden Markov Models
+* Occlusion Handling
+
+---
+
+### FER-2013 Emotion Recognition
+
+Deep learning system for facial emotion classification.
+
+* CNN Architecture
+* Data Preprocessing Pipelines
+* Error Analysis
+* Performance Visualization
+
+<br />
+
+---
+
+## Tech Stack
+
+### Languages
+
+Python · SQL · C/C++ · Java · TypeScript
+
+### Machine Learning
+
+PyTorch · TorchVision · Scikit-Learn · XGBoost
+
+### LLM & RAG
+
+LangChain · FAISS · Agentic Workflows
+
+### Backend & MLOps
+
+FastAPI · Docker · Git · CI/CD · Linux
+
+### Data & Visualization
+
+Pandas · Matplotlib · Power BI
+
+<br />
+
+---
+
+## Selected Achievements
+
+* **Fundação Estudar Leadership Program Fellow (2026)**
+* **CAPES Talento Universitário (2025)** — Top 5%
+* **Young Researcher Award — XXXI ENIC/UFPB (2023)**
+
+<br />
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
@@ -115,5 +216,5 @@ I’m particularly interested in transforming ML models into **reliable, product
 ---
 
 <p align="center">
-  <em>Interested in building ML systems that actually matter.</em>
+  <em>Building machine learning systems that are reliable enough for real-world decisions.</em>
 </p>
