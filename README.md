@@ -1,4 +1,4 @@
-# <h1 align="center">Miguel Mochizuki Silva</h1>
+# <h1 align="center">Miguel Mochizuki </h1>
 
 <p align="center">
   <sup>
