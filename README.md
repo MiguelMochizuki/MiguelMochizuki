@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/miguel-mochizuki-36622a346)
  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MiguelMochizukiDev)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MiguelMochizuki)
  
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:miguelmochizukisilva@gmail.com)
 
@@ -205,9 +205,9 @@ Pandas · Matplotlib · Power BI
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelMochizukiDev&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelMochizuki&theme=github_dark" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiguelMochizukiDev&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiguelMochizuki&theme=github_dark" />
 
 </div>
 
