@@ -1,220 +1,43 @@
-# <h1 align="center">Miguel Mochizuki </h1>
+<h1 align="center">Miguel Mochizuki</h1>
 
 <p align="center">
-  <sup>
-    Machine Learning Engineer · Computer Vision · Healthcare AI · Production ML
-  </sup>
+  ML engineer and CS undergrad at UFPB. I work on computer vision and healthcare AI, and I like building things from scratch in C++.
 </p>
-
-<br />
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/miguel-mochizuki-36622a346)
- 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MiguelMochizuki)
- 
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:miguelmochizukisilva@gmail.com)
-
-</div>
-
-<br />
-
----
-
-## About
-
-Computer Science undergraduate at **UFPB** and Machine Learning Engineer working on **Computer Vision**, **Healthcare AI**, and **Agentic RAG systems**.
-
-My focus is building end-to-end machine learning systems that move beyond experimentation and deliver reliable performance in real-world environments.
-
-Current interests include:
-
-* Computer Vision and Object Tracking
-* Healthcare AI
-* Multimodal Systems
-* Agentic AI and RAG
-* MLOps and Production ML
-* High-Performance Computing with C++
-
-> From research prototypes to production-grade AI systems.
-
-<br />
-
----
-
-## Highlights
-
-* Developed surgical sponge tracking pipelines achieving **92% tracking accuracy**
-* Built agentic RAG systems for breast cancer diagnosis reaching **85% diagnostic accuracy**
-* Generated **10,000+ synthetic clinical samples** for healthcare AI research
-* Improved computer vision classification performance by **60% over baseline approaches**
-* Presented AI research results to medical professionals and technical stakeholders
-* Contributed to research and engineering projects spanning healthcare, sports analytics, and machine learning infrastructure
-
-<br />
-
----
-
-## What I Work On
-
-* Computer Vision (Detection, Tracking, Classification)
-* Agentic AI Systems
-* Retrieval-Augmented Generation (RAG)
-* Synthetic Data Generation
-* Time Series and Sequential Modeling
-* Deep Learning with PyTorch
-* FastAPI-based ML Services
-* MLOps and Dockerized Deployments
-* Performance-Oriented C++ Development
-
-<br />
-
----
-
-## Experience
-
-### AI Applications Lab (ARIA) — UFPB
-
-**AI Engineer & Research Intern** | 2025–Present
-
-Working on healthcare AI and computer vision systems in collaboration with academic and industry partners.
-
-**Projects include:**
-
-* Surgical sponge tracking using ByteTrack and Hidden Markov Models
-* Agentic RAG systems for breast cancer diagnosis
-* Synthetic data generation pipelines for medical AI
-* End-to-end machine learning infrastructure for research-to-production workflows
-
----
-
-### Technology and AI League (Tail) — UFPB
-
-**Machine Learning Engineer** | 2025–Present
-
-Developing applied machine learning solutions for real-world analytics and decision support.
-
-**Projects include:**
-
-* Real-time sports analytics systems
-* CLIP fine-tuning for jersey color classification
-* Audio similarity systems using Siamese Neural Networks
-* Model evaluation, monitoring, and performance analysis
-
----
-
-### Mathematics Research Program (PIBIC/CNPq)
-
-**Researcher** | 2022–2023
-
-* Research in Partial Differential Equations and Geometric Analysis
-* Awarded Young Researcher distinction at UFPB research symposium
-
-<br />
-
----
-
-## Selected Projects
-
-### NN in C++
-
-Minimal neural network framework built entirely from scratch.
-
-* Backpropagation
-* Stochastic Gradient Descent
-* Matrix Operations
-* Multiple Activation Functions
-* XOR Learning Demonstration
-
----
-
-### Breast Cancer Diagnostic RAG
-
-Agentic retrieval-augmented system for clinical decision support.
-
-* FAISS Vector Database
-* LLM-based Reasoning
-* Diagnostic Workflow Design
-* Synthetic Medical Data Generation
-
----
-
-### Surgical Sponge Tracking
-
-Computer vision pipeline for surgical environments.
-
-* Object Detection
-* Multi-Object Tracking
-* ByteTrack
-* Hidden Markov Models
-* Occlusion Handling
-
----
-
-### FER-2013 Emotion Recognition
-
-Deep learning system for facial emotion classification.
-
-* CNN Architecture
-* Data Preprocessing Pipelines
-* Error Analysis
-* Performance Visualization
-
-<br />
-
----
-
-## Tech Stack
-
-### Languages
-
-Python · SQL · C/C++ · Java · TypeScript
-
-### Machine Learning
-
-PyTorch · TorchVision · Scikit-Learn · XGBoost
-
-### LLM & RAG
-
-LangChain · FAISS · Agentic Workflows
-
-### Backend & MLOps
-
-FastAPI · Docker · Git · CI/CD · Linux
-
-### Data & Visualization
-
-Pandas · Matplotlib · Power BI
-
-<br />
-
----
-
-## Selected Achievements
-
-* **Fundação Estudar Leadership Program Fellow (2026)**
-* **CAPES Talento Universitário (2025)** — Top 5%
-* **Young Researcher Award — XXXI ENIC/UFPB (2023)**
-
-<br />
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelMochizuki&theme=github_dark" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiguelMochizuki&theme=github_dark" />
-
-</div>
-
-<br />
-
----
 
 <p align="center">
-  <em>Building machine learning systems that are reliable enough for real-world decisions.</em>
+  <a href="https://www.linkedin.com/in/miguel-mochizuki-36622a346"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:miguelmochizukisilva@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+### Now
+
+- Leading research on AI-based medication measurement with DHauz and Hospital Israelita Albert Einstein (ARIA, UFPB).
+- Building an agentic RAG system for breast cancer diagnostic reasoning with UPenn (ARIA, UFPB).
+- Computer vision for amateur basketball analytics at TAIL.
+
+### Open source
+
+| Repo | What it is | Numbers |
+|---|---|---|
+| [nn-cpp](https://github.com/MiguelMochizuki/nn-cpp) | Tensor library in C++17 with reverse-mode autograd, conv layers and SGD. No external dependencies. | CNN on MNIST: 98.5% test accuracy, under 2 min on one CPU core |
+| [4kai](https://github.com/MiguelMochizuki/4kai) | Local video restoration app. Real-ESRGAN upscaling, RIFE interpolation, flow-guided temporal smoothing, EBU R128 loudness. Docker, CUDA/MPS/CPU. | 27% less flicker for 6% less fine detail |
+| [riscv-student-pack](https://github.com/MiguelMochizuki/riscv-student-pack) | RV32I assembler that emits ELF32, plus an emulator. Each instruction is defined once and shared by both. | Output also runs on qemu-riscv32 |
+| [fer-2013](https://github.com/MiguelMochizuki/fer-2013) | ResNet18 fine-tuned for facial expression recognition, config-driven training and evaluation. | 71.2% accuracy, 0.715 macro-F1 |
+| [watchproc](https://github.com/MiguelMochizuki/watchproc) | Watch one process by PID: CPU, memory, state, stdout tail, GPU. | |
+
+### Research and work
+
+- Surgical gauze tracking: SORT-based tracker built on an occlusion-awareness hypothesis. +10% IDF1 over BoT-SORT on a private test set.
+- Breast cancer diagnostic RAG: 89% R-precision on a curated breast-lesion dataset (to be published).
+- CLIP team classifier: 95% accuracy across 15+ teams, +60% over HSV baselines.
+- Fidelis, a browser extension that helps physicians write prescriptions. Won the Builders Club hackathon in 2026.
+
+### Stack
+
+Python, C++17, SQL, Java, TypeScript. PyTorch, scikit-learn, XGBoost, LangChain, FAISS. FastAPI, Docker, CMake, Linux.
+
+### Recognition
+
+- Fundação Estudar Leadership Fellow, 2026
+- CAPES Talento Universitário, 2025 (top 5%)
+- Young Researcher Prize, XXXI ENIC/UFPB, 2023
