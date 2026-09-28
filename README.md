@@ -23,7 +23,7 @@
 | [4kai](https://github.com/MiguelMochizuki/4kai) | Local video restoration app. Real-ESRGAN upscaling, RIFE interpolation, flow-guided temporal smoothing, EBU R128 loudness. Docker, CUDA/MPS/CPU. | 27% less flicker for 6% less fine detail |
 | [riscv-student-pack](https://github.com/MiguelMochizuki/riscv-student-pack) | RV32I assembler that emits ELF32, plus an emulator. Each instruction is defined once and shared by both. | Output also runs on qemu-riscv32 |
 | [fer-2013](https://github.com/MiguelMochizuki/fer-2013) | ResNet18 fine-tuned for facial expression recognition, config-driven training and evaluation. | 71.2% accuracy, 0.715 macro-F1 |
-| [watchproc](https://github.com/MiguelMochizuki/watchproc) | Watch one process by PID: CPU, memory, state, stdout tail, GPU. | |
+| [drive-sync](https://github.com/MiguelMochizuki/drive-sync) | Bash CLI that syncs PDFs with Google Drive through rclone, compressing them first with Ghostscript. Nine modules, JSON state with file locking, automatic rate-limit backoff, documented exit codes. | Test suite in bats, with rclone and gs mocked |
 
 ### Research and work
 
